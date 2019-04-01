@@ -32,21 +32,21 @@ You'll have about three hours to complete the first section of this lab. Use tha
 
 Please collect the following content from your assigned student for their profile. This content doesn't have to be finalized, but you need something. They'll be using this content as the project evolves for their resume and other profiles online.
 
-* Name
-* Github Username
-* Blog Url (if they don't already have a blog it will be their-github-username.github.io)
-* Tagline
-* Profile Picture (something normal, a headshot, of a good reusable size that can be easily cropped)
-* Background Picture
+* Name Minh Chau Ha
+* Github Username minhl337
+* Blog Url (if they don't already have a blog it will be their-github-username.github.io) 
+* Tagline Use your powers for good.
+* Profile Picture (something normal, a headshot, of a good reusable size that can be easily cropped) sent on slack 
+* Background Picture (moonlit asteroids.jpg)
 * Treehouse Account
 * CoderWall Account
 * CodeSchool Account
-* Favorite Websites
-* Previous Work Experience
-* Short Bio
-* Twitter URL
-* LinkedIn URL
-* Education
+* Favorite Websites npmjs.com
+* Previous Work Experience Tried creating a startup then went into finance.
+* Short Bio I make stuff using code.
+* Twitter URL @DigivolvedM
+* LinkedIn URL https://www.linkedin.com/in/minwin/
+* Education Computer Engineering (University of Houston)
 
 ## Structure
 
